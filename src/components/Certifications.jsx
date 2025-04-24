@@ -4,7 +4,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 const certificates = [
   {
     title: 'SQL Advanced Certificate',
-    image: 'public/hackerrank.png',
+    image: '/hackerrank.png',
     description:
       'This certification demonstrates advanced proficiency in Structured Query Language (SQL), validated through HackerRank’s rigorous assessment platform. It showcases the ability to write complex queries, optimize performance, and manipulate data effectively in real-world database environments.',
     issuingOrganization: 'Hackerrank',
@@ -20,7 +20,7 @@ const certificates = [
     issuingOrganization: 'Udemy',
     date: '2024',
     link: 'https://www.udemy.com/course/datastructurescncpp/',
-    Certificate: 'public/SDSA.jpg',
+    Certificate: '/SDSA.jpg',
   },
   {
     title: 'Tableau Business Intelligence Analyst',

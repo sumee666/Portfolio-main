@@ -5,7 +5,7 @@ import { FaExternalLinkAlt, FaGithub } from 'react-icons/fa';
 const projects = [
   {
     title: 'Responsive Gym Website',
-    image: '/public/HTMLProject.png', // Add the image URL for Entrepreneur Club
+    image: '/HTMLProject.png', // Add the image URL for Entrepreneur Club
     description:
       'Responsive Gym Website Design Using HTML CSS & JavaScript.Contains animations when scrolling.Includes a form to calculate body mass index.Includes a form to send emails.Developed first with the Mobile First methodology, then for desktop.Compatible with all mobile devices and with a beautiful and pleasant user interface.',
     tech: ['HTML', 'CSS', 'Javascript'],
@@ -14,7 +14,7 @@ const projects = [
   },
   {
     title: 'AI Browser Extension: Fake News Detector',
-    image: 'public/AIextension.png',
+    image: '/AIextension.png',
     description:
       'Cut through the noise and stay informed with Fake News Detector, your smart companion for navigating the internet. This AI-powered browser extension scans news articles, headlines, and social media posts in real-time to assess credibility, flag misinformation, and highlight reliable sources.',
     tech: ['HTML', 'CSS', 'Python', 'Javascript', 'Jupyter Notebook'],
@@ -23,7 +23,7 @@ const projects = [
   },
   {
     title: 'Data Analysis Dashboard On Diwali Dataset',
-    image: 'public/diwali.png',
+    image: '/diwali.png',
     description:
       'This interactive dashboard provides a comprehensive analysis of consumer behavior and sales performance during the Diwali festival season. Built using modern tools like Tableau, it helps uncover key business insights and trends from the Diwali dataset.',
     tech: ['Tableau'],

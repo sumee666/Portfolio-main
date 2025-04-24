@@ -16,7 +16,7 @@ const educationDetails = [
     period: '2020 – 2022',
     cgpa: 'Percentage: 89%',
     location: 'Andhra Pradesh, India',
-    logo: 'public/Na.jpg',
+    logo: '/Na.jpg',
   },
   {
     title: 'Dr.K.K.R Gowtham School',
@@ -24,7 +24,7 @@ const educationDetails = [
     period: '2019 – 2020',
     cgpa: 'Percentage: 69%',
     location: 'Visakhapatnam, Andhra Pradesh',
-    logo: 'public/kkr.jpg',
+    logo: '/kkr.jpg',
   },
 ];
 
