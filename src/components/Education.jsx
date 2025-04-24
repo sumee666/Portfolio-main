@@ -16,7 +16,7 @@ const educationDetails = [
     period: '2020 – 2022',
     cgpa: 'Percentage: 89%',
     location: 'Andhra Pradesh, India',
-    logo: 'public/Na.avif',
+    logo: 'public/Na.jpg',
   },
   {
     title: 'Dr.K.K.R Gowtham School',
